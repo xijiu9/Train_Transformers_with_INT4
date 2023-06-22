@@ -9,3 +9,7 @@ bash task.sh
 ```
 
 Change --model_name_or_path bert-base-uncased to bert-large-uncased to reproduce the result for bert-large.
+
+### Results
+
+![Alt text](image.png)
